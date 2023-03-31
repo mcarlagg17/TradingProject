@@ -26,11 +26,3 @@ _book
 # Contraseñas
 .env
 .ipynb_checkpoints
-
-# Carpetas y archivos
-/processed
-.ipynb
-
-# Imagenes
-*.jpeg
-*failed_*
